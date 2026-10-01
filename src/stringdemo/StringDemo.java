@@ -12,7 +12,7 @@ public class StringDemo {
 		sb.append(" Programming");
 		
 		System.out.println(sb);
-		
+		String value = "Hello";
 		StringBuilder sbl = new StringBuilder("Java");
 		sbl.append(" Programming");
 		
