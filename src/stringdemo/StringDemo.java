@@ -16,7 +16,7 @@ public class StringDemo {
 		StringBuilder sbl = new StringBuilder("Java");
 		sbl.append(" Programming");
 		
-		System.out.println(System.currentTimeMillis());
+		
 		long stringStart = System.currentTimeMillis();
 		for (int i = 0; i < 100000; i++) {
 			name = name + " Programming";
